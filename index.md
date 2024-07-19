@@ -5,7 +5,9 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/pic001.jpg" style="width:45rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-I am a grad student at Mount Sinai, NY currently pursuing M.S. in Biomedical Sciences. I work with [Prof. H Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/){:target="_blank"}'s [Human Language Analysis Beings (HLAB)](https://hlab.cs.stonybrook.edu){:target="_blank"} at Stony Brook, where we work on human-centered language processing techniques. I recieved my Bachelor's in Computer Science from Malaviya National Institute of Technology, Jaipur, India. I was also an undergraduate research assistant at [Prof. Santosh Kumar Vipparthi](https://skvipparthi.github.io){:target="_blank"}'s Vision Intelligence Lab.
+I am a Master of Science graduate in Biomedical Sciences from the Icahn School of Medicine at Mount Sinai, with a solid academic background in informatics from Indiana University – Purdue University Indianapolis. My diverse educational journey has equipped me with skills in machine learning, biostatistics, bioinformatics, and human-computer interaction. 
+
+I have pursued my MS Thesis and research at [Gu Lab, Center for Comutational Psychiatry](https://www.neurocpu.org/) under the guidance of [Dr. Xiaosi Gu](https://profiles.icahn.mssm.edu/xiaosi-gu?pk_vid=b3874027cb494c101721417624946926) and postdoc mentors Dr. Shawn Rhoads and Dr. Blair Shevlin. 
 
 During my bachelor's, I conducted research in computer vision focused on real-time object detection and recognition in aerial scenary. I co-authored journal publication which was later published in [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/8755462){:target="_blank"} and I presented my published work at [IEEE International Conference on Image Processing](https://ieeexplore.ieee.org/document/8803262){:target="_blank"}.
 
