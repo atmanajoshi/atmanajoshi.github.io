@@ -180,10 +180,12 @@ a.sidebar-nav-item:focus {
 /* Custom */
 .theme-base-12 .sidebar {
   background-color: #2f73bb;
+  font-size: 12px
 }
 .theme-base-12 .content a,
 .theme-base-12 .related-posts li a:hover {
   color: #2f73bb;
+  font-size: 12px
 }
 
 /* Red */
