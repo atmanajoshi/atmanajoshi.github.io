@@ -93,10 +93,14 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  font-weight: bolder;
+  color: green
 }
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  font-weight: bolder;
+  color: red
 }
 h4, h5, h6 {
   margin-top: 1rem;
