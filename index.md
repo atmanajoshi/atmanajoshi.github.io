@@ -13,7 +13,7 @@ During my undergraduate studies, I served as an undergraduate Research Assistant
 
 Prior to my masters, I served as a Data Analyst at the Regenstrief Institute, collaborating closely with physicians and researchers to fulfill their data requirements for various studies. I leveraged SQL, SAS, and R for data extraction and analysis, ensuring precise patient cohort identification while maintaining data privacy as per HIPAA and IRB protocols. Previously, as a Clinical Informatics Specialist at Oak Street Health, I meticulously documented patient encounters and supported multidisciplinary care teams in geriatrics and primary care setting. 
 
-I am passionate about leveraging technology to address healthcare challenges, as demonstrated by my diverse [project](https://atmanajoshi.github.io/projects) experience. My technical proficiency spans programming languages such as Python, SQL, and R, and I am experienced in using various software tools for data analysis and visualization.
+I am passionate about leveraging technology to address healthcare challenges, as demonstrated by my diverse [project](https://atmanajoshi.github.io/Projects) experience. My technical proficiency spans programming languages such as Python, SQL, and R, and I am experienced in using various software tools for data analysis and visualization.
 
 Outside of my professional and academic pursuits, I am an Indian classical dancer, performing and studying Bharatanatyam since 2016. I have actively volunteered in various community services, contributing to healthcare and educational initiatives.
 
