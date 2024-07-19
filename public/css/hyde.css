@@ -36,14 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
-    color: red /*added*/
+    font-size: 16px
   }
 }
 @media (min-width: 64em) {
   html {
-    font-size: 18px;
-    color: green /*added*/
+    font-size: 18px
   }
 }
 
@@ -74,14 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  /*color: #fff;*/
-  color: rgb(234, 42, 131); /*added*/
+  color: #fff
 }
 
 /* About section */
 .sidebar-about h1 {
-  /*color: #fff;*/
-  color: yellow; /*added*/
+  color: #fff;
   margin-top: 0;
   font-family: "Montserrat", sans-serif;
   font-size: 3.25rem;
