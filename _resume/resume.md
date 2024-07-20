@@ -9,7 +9,7 @@ title: Resume
 ## Education 
 ***
 
-<p class="full-width"><img src="/public/002.png" style="width:11rem;height:14rem" align="left"/></p><br><br><br><br><br><br><br><br><br>
+<p class="full-width"><img src="/public/002.png" style="width:11rem;height:14rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br>
 
  __Master of Science in Biomedical Sciences (2022 - 2024)__<br>
  
@@ -27,8 +27,6 @@ title: Resume
 ## Work Experience 
 ***
 
-__Regenstrief Institute__<br>
-__Indianapolis, IN__<br>
 <p class="full-width"><img src="/pic004.png" style="width:19rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Data Analyst I (Nov 2021 - Oct 2022)__ <br>
@@ -48,75 +46,62 @@ within medical records and patient notes.
 - Ensured the confidentiality and privacy of PHI and other data in compliance with HIPAA and IRB protocols.
 
 
-__JP Morgan Chase & Co.__<br>
-__Mumbai, India__<br>
-<p class="full-width"><img src="/public/pic005.jpg" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
+<p class="full-width"><img src="/public/pic005.png" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Software Engineer II (Feb 2020 - Jan 2021)__ <br>
-
- __Software Engineer (Jul 2018 - Jan 2020)__ <br>
-
-- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra. 
-- Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
-- Led a team of developers in a global team hackathon and developed a critical business web application prototype using React.JS and TypeScript, deploying it on the private cloud - GAIA.
-- Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours. 
-- Automated creation of market data reports for end-users and regulatory operations, and various desks. Provided production support for the live dashboard of automated workflow processes of various businesses.
-- Implemented external vendor data snapping APIs using encrypted connections in a client-server application. 
-- Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
-- Developed a tool for end-users to query trade data and plot informational views using the Enaml framework. 
+ __Clinical Informatics Specialist__ <br>
+- Documented patient encounters in SOAP notes, detailing chief complaints, history of present illness, past medical
+history, and treatment plans within Greenway Health EHR system.
+- Applied medical terminology and assigned ICD-10/CPT codes to ensure accurate clinical documentation and
+medical super billing.
+- Leveraged the Indiana Health Information Exchange (IHIE), Epic EHR, and in-house population health tools to
+prepare documentation for daily huddles by reviewing and summarizing patients’ medical records for providers to
+maintain precise clinical documentation.
+- Placed lab/imaging orders and referrals, managed patient scheduling, and addressed other responsibilities as
+assigned to support a multidisciplinary care team with smooth clinical operations.
+- Demonstrated advanced listening and communication skills, strong computer literacy, and ability to adapt to
+rapidly changing clinical environment.
 
 ## Volunteer Work 
 ***
 
-- __Take IT Forward__ *(2020-21)* <br>
-Partenered with Take IT Forward(TIF) community at JP Morgan and Chase as a trainer, aimed at improving and upskilling Women in Tech. I provided technical trainings and conducted webinars as a part of Python bootcamps. <br>
+- __Student Leader, Mount Sinai Morningside__ *(2022-2024)* <br>
+Volunteered as student leader to coordinate with the resident, hospital staff, and fellow student volunteers to facilitate enriching activities and supportive talk for kids at Child and Adolescent Psychiatry Inpatient Unit, Mount Sinai Hospital. <br>
 
-- __Code For Good__ *(2020-21)* <br>
-Volunteered as a Technical Judge for the Code For Good Hackathon hosted by JP Morgan Chase to help various NGOs build software solutions. I contributed as a technical judge to help evaluate team projects by hackathon participants. <br>
+- __Student Volunteer, Ekal Vidyalaya USA__ *(2017-2019)* <br>
+Assisted in local annual fundraiser by maintaining new and past donor list and help process donations that are distributed to establish schools in remote tribal and rural areas of India<br>
 
-- __Ignite__ *(2019-20)* <br>
-Conducted training in developers’ community on Advanced Python, AI/ML, Pandas, and NumPy libraries.
+- __Student Volunteer, Nearwest Outreach Clinic__ *(2020-2021)* <br>
+Helped set up clinic rooms and check-in desk, maintained bilingual patient registration forms and sign-in sheet. Welcomed patients and helped them with completion of forms. Informed patients about free dental or vaccination clinics.
+
+- __Student Volunteer, IU Methodist Hospital__ *(2020-2021)* <br>
+Helped set up clinic rooms and check-in desk, maintained bilingual patient registration forms and sign-in sheet. Welcomed patients and helped them with completion of forms. Informed patients about free dental or vaccination clinics.
 
 ## Skills 
 ***
 
 __Programming Languages__ 
+- SQL
 - Python
-- Go
-- C/C++
-- Java
-- Javascript
-- Typescript
+- R
 - PHP
-- Enaml
-
-__Frameworks__
-- Dash
-- Flask
-- ReactJS
 
 __Libraries and Tools__
 - Pandas
 - NumPy
+- SciPy
 - Scikit-Learn
-- HuggingFace
-- PySpark
-- Hadoop
-- Hive
 - PyTorch
-- Tensorflow
-- Keras
-- OpenCV
-- Domino Data lab
-- Containerization and Orchestration (Docker, CI/CD)
-- Linux
-- Cloud Platforms (AWS)
-- Databases & Storage (MySQL, SQLite, Hydra)
+- Kipoiseq
+- Unix/Linux
 
-## Awards	
-***
+__Software__ 
+- SQL Server Management Studio
+- VS Studio
+- Github
+- SAS
+- SPSS
+- MATLAB
+- Justinmind Prototyping & Wireframing
 
-- 1st place, Most Innovative B. Tech Project Competition of MNIT (2018)
 
