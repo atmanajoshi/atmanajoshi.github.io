@@ -11,7 +11,7 @@ title: Resume
 
 __Ichan School of Medicine at Mount Sinai (2022 - 2024)__<br>
 __New York, NY__ <br>
-<p class="full-width"><img src="/public/002.png" style="width:15rem;height:5rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/public/002.png" style="width:15rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Master of Science in Biomedical Sciences__<br>
  
@@ -20,11 +20,11 @@ __New York, NY__ <br>
 
 __Indiana University (2016 - 2020)__<br>
 __Indianapolis, IN__ <br>
-<p class="full-width"><img src="/public/003.png" style="width:7rem;height:5rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/public/003.png" style="width:10rem;height:8rem" align="left"/></p><br><br><br><br><br>
 
  __Bachelor of Science in Informatics__ <br>
 
- Courses - Introductory Bioinformatics, Clinical Information Systems, Applications of Data Mining, Database Development, Information Infrastructure, Research in Informatics, Human-Computer Interaction Principles, Pre Medicine Courses<br>
+ Courses - Introductory Bioinformatics, Clinical Information Systems, Applications of Data Mining, Database Development, Information Infrastructure, Research in Informatics, Human-Computer Interaction Principles, Pre-Medicine Courses<br>
 
 ## Work Experience 
 ***
