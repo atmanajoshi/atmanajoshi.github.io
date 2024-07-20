@@ -4,7 +4,7 @@ permalink: /Resume
 title: Resume
 ---
 
-[Download](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}
+[Download](https://drive.google.com/file/d/1vTKALVJb8XFN1WnXD4NJOmXlo1cdQoGn/view?usp=sharing){:target="_blank"}
 
 ## Education 
 ***
@@ -16,7 +16,7 @@ __New York, NY__ <br>
  __Master of Science in Biomedical Sciences__<br>
  
  GPA - __3.6__ /4.0 <br>
- Courses - Machine Learning for Biomedical Data, Computer System Architectures and Applications in Scientific Computing,Unix/Linux Fundamentals, Biostatistics, Commercialization of Biomedical Innovation<br>
+ Courses - Machine Learning for Biomedical Data, Computer System Architectures and Applications in Scientific Computing, Unix/Linux Fundamentals, Biostatistics, Commercialization of Biomedical Innovation<br>
 
 __Indiana University (2016 - 2020)__<br>
 __Indianapolis, IN__ <br>
@@ -30,17 +30,25 @@ __Indianapolis, IN__ <br>
 ## Work Experience 
 ***
 
-__New York Life Insurance Co.__<br>
-__New York, USA__<br>
-<p class="full-width"><img src="/pic004.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__Regenstrief Institute__<br>
+__Indianapolis, IN__<br>
+<p class="full-width"><img src="/pic004.png" style="width:14rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Machine Learning Engineer Intern(May 2022 - Present)__ <br>
-
-__Project: Mortality Risk Classification Model__
-- Worked on improving model prediction and descriptive reason codes as output for the underwriters and agents incorporating new medical data sources.
-- Built a web application on Domino Data Lab plaform using Web-HDFS API and Dash framework for the model to automate the model validation and to generate reason code analytics.
-- Worked on test generation automation, wrapper and corner case testin for the model.
-- Adapted Model Development Life Cycle (MDLC) for the model releases.
+ __Data Analyst I (Nov 2021 - Oct 2022)__ <br>
+ 
+- Collaborated with physicians and researchers to understand project requirements, determine the variety and depth
+of clinical data available across diverse resources, and engaged in an iterative research process by refining data
+extraction and analyses based on their feedback.
+- Developed and optimized scripts using SQL, Proc SQL, SQL Server Management Studio, SAS, and R for
+cohort identification, data extraction, and data manipulation, both independently and with a team of data analysts.
+- Identified and extracted precise clinical data elements (i.e., demographics, encounter, clinical observations,
+diagnoses, procedures, time, occurrences) using ICD-10, CPT, and HCPCS codes to construct detailed patient
+cohorts for research, patient recruitment, and feasibility studies.
+- Leveraged large clinical databases and EHR systems, including the Epic, Cerner, Indiana Network for Patient
+Care and in-house resources like Indiana Biobank, and Cordaco COVID-19 databases.
+- Utilized in-house natural language processing and text mining tool nDepth to efficiently extract unstructured data
+within medical records and patient notes.
+- Ensured the confidentiality and privacy of PHI and other data in compliance with HIPAA and IRB protocols.
 
 
 __JP Morgan Chase & Co.__<br>
