@@ -9,7 +9,7 @@ title: Resume
 ## Education 
 ***
 
-<p class="full-width"><img src="/public/002.png" style="width:11rem;height:13rem" align="left"/></p><br><br><br><br><br><br><br><br><br>
+<p class="full-width"><img src="/public/002.png" style="width:11rem;height:14rem" align="left"/></p><br><br><br><br><br><br><br><br><br>
 
  __Master of Science in Biomedical Sciences (2022 - 2024)__<br>
  
@@ -29,7 +29,7 @@ title: Resume
 
 __Regenstrief Institute__<br>
 __Indianapolis, IN__<br>
-<p class="full-width"><img src="/pic004.png" style="width:16rem;height:7rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/pic004.png" style="width:19rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Data Analyst I (Nov 2021 - Oct 2022)__ <br>
 
