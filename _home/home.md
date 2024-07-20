@@ -6,8 +6,6 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/pic001.jpg" style="width:16rem;height:24rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p class="full-width no-margin"><img src="/pic001.jpg" style="width:16rem;height:24rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 I have earned Master of Science in Biomedical Sciences from the Icahn School of Medicine at Mount Sinai, with a solid academic background in informatics from Indiana University – Purdue University Indianapolis. My diverse educational journey has equipped me with skills in data science, clinical information systems, human-computer interaction, and machine learning. 
 
 I have pursued my MS Thesis and research at [Gu Lab, Center for Comutational Psychiatry](https://www.neurocpu.org/) under the guidance of [Dr. Xiaosi Gu](https://profiles.icahn.mssm.edu/xiaosi-gu?pk_vid=b3874027cb494c101721417624946926) and postdoc mentors [Dr. Shawn Rhoads](https://scholar.google.com/citations?hl=en&user=__YmDVEAAAAJ) and [Dr. Blair Shevlin](https://scholar.google.com/citations?user=J_t6LicAAAAJ&hl=en). I completed a thesis titled "Cannabis Use and Social Controllability: Differences Between Medical and Recreational Users" which delves into the decision-making processes and choice behaviors of cannabis users. 
