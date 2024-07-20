@@ -10,22 +10,21 @@ title: Resume
 ***
 
 __Ichan School of Medicine at Mount Sinai (2022 - 2024)__<br>
-__New York, USA__ <br>
-<p class="full-width"><img src="/public/pic002.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__New York, NY__ <br>
+<p class="full-width"><img src="/public/002.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Master of Science in Biomedical Sciences__<br>
  
  GPA - __3.6__ /4.0 <br>
- Courses - Machine Learning, Distributed Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br>
+ Courses - Machine Learning for Biomedical Data, Computer System Architectures and Applications in Scientific Computing,Unix/Linux Fundamentals, Biostatistics, Commercialization of Biomedical Innovation<br>
 
-__Malaviya National Institute of Technology (2014 - 2018)__<br>
-__Jaipur, India__ <br>
-<p class="full-width"><img src="/public/pic003.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__Indiana University (2016 - 2020)__<br>
+__Indianapolis, IN__ <br>
+<p class="full-width"><img src="/public/pic003.jpg" style="width:10rem;height:3rem" align="left"/></p><br><br><br><br><br>
 
- __Bachelor of Technology in Computer Science and Engineering__ <br>
+ __Bachelor of Science in Informatics__ <br>
 
- CGPA - __8.31__ / 10.00 <br>
- Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br>
+ Courses - Introductory Bioinformatics, Clinical Information Systems, Applications of Data Mining, Database Development, Information Infrastructure, Research in Informatics, Human-Computer Interaction Principles, Pre Medicine Courses<br>
 
 ## Work Experience 
 ***
