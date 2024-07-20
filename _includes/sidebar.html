@@ -7,7 +7,8 @@
         </a>
       </h1>
       <p class="lead">
-        {{ site.tagline }}
+        <div id="app"></div>
+        <!-- {{ site.tagline }} -->
       </p>
     </div>
 
@@ -94,3 +95,28 @@
     <p>&copy; {{ site.since }}-{{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+
+<script type="text/javascript">
+  var app = document.getElementById('app');
+  
+  var typewriter = new Typewriter(app, {
+      loop: true
+  });
+  
+  typewriter.typeString('Biomedical Researcher')
+      .pauseFor(1500)
+      .deleteChars(21)
+      .typeString('Healthcare Data Analyst')
+      .pauseFor(1500)
+      .deleteChars(23)
+      .typeString('Indian Classical Dancer')
+      .pauseFor(1500)
+      .deleteChars(23)
+      .typeString('Reader')
+      .pauseFor(1500)
+      .deleteChars(6)
+      .typeString('Traveller')
+      .pauseFor(1500)
+      .deleteChars(9)
+      .start();
+  </script>
