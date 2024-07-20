@@ -11,7 +11,7 @@ title: Resume
 
 __Ichan School of Medicine at Mount Sinai (2022 - 2024)__<br>
 __New York, NY__ <br>
-<p class="full-width"><img src="/public/002.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/public/002.jpg" style="width:10rem;height:3rem" align="left"/></p><br><br><br><br><br>
 
  __Master of Science in Biomedical Sciences__<br>
  
@@ -20,7 +20,7 @@ __New York, NY__ <br>
 
 __Indiana University (2016 - 2020)__<br>
 __Indianapolis, IN__ <br>
-<p class="full-width"><img src="/public/pic003.jpg" style="width:10rem;height:3rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/public/003.jpg" style="width:10rem;height:3rem" align="left"/></p><br><br><br><br><br>
 
  __Bachelor of Science in Informatics__ <br>
 
