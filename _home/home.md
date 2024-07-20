@@ -6,7 +6,7 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/pic001.jpg" style="width:16rem;height:24rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-I have earned Master of Science in Biomedical Sciences from the Icahn School of Medicine at Mount Sinai, with a solid academic background in informatics from Indiana University – Purdue University Indianapolis. My diverse educational journey has equipped me with skills in machine learning, data science, clinical information systems, and human-computer interaction. 
+I have earned Master of Science in Biomedical Sciences from the Icahn School of Medicine at Mount Sinai, with a solid academic background in informatics from Indiana University – Purdue University Indianapolis. My diverse educational journey has equipped me with skills in data science, clinical information systems, human-computer interaction, and machine learning. 
 
 I have pursued my MS Thesis and research at [Gu Lab, Center for Comutational Psychiatry](https://www.neurocpu.org/) under the guidance of [Dr. Xiaosi Gu](https://profiles.icahn.mssm.edu/xiaosi-gu?pk_vid=b3874027cb494c101721417624946926) and postdoc mentors [Dr. Shawn Rhoads](https://scholar.google.com/citations?hl=en&user=__YmDVEAAAAJ) and [Dr. Blair Shevlin](https://scholar.google.com/citations?user=J_t6LicAAAAJ&hl=en). 
 
@@ -18,4 +18,4 @@ I am passionate about leveraging technology to address healthcare challenges, as
 
 Outside of my professional and academic pursuits, I am an Indian classical dancer, performing and studying Bharatanatyam since 2016. I have actively volunteered in various community services, contributing to healthcare and educational initiatives.
 
-Please feel free to check out my [resume](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}, the [projects](https://mbshah3.github.io/Projects){:target="_blank"} I have done, or you could [contact](https://mbshah3.github.io/Contact){:target="_blank"}  me.
+Please feel free to check out my [resume](https://drive.google.com/file/d/1vTKALVJb8XFN1WnXD4NJOmXlo1cdQoGn/view?usp=sharing){:target="_blank"}, the [projects](https://atmanajoshi.github.io/Projects){:target="_blank"} I have done, or you could contact me at atmanajoshi@gmail.com.
