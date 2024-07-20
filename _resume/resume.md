@@ -20,11 +20,12 @@ __New York, NY__ <br>
 
 __Indiana University (2016 - 2020)__<br>
 __Indianapolis, IN__ <br>
-<p class="full-width"><img src="/public/003.png" style="width:13rem;height:3rem" align="left"/></p><br><br>
+<p class="full-width"><img src="/public/003.png" style="width:15rem;height:3rem" align="left"/></p><br><br>
 
- __Bachelor of Science in Informatics__ <br>
+ __Bachelor of Science in Informatics, Specialization in Pre-Medicine__ <br>
 
- Courses - Introductory Bioinformatics, Clinical Information Systems, Applications of Data Mining, Database Development, Information Infrastructure, Research in Informatics, Human-Computer Interaction Principles, Pre-Medicine Courses<br>
+ Courses - Introductory Bioinformatics, Clinical Information Systems, Applications of Data Mining, Database Development, Information Infrastructure, Research in Informatics, Human-Computer Interaction Principles<br>
+ Study Abroad London - Understanding England’s National Health Service <br>
 
 ## Work Experience 
 ***
