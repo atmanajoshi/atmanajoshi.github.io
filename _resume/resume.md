@@ -9,20 +9,17 @@ title: Resume
 ## Education 
 ***
 
-__Ichan School of Medicine at Mount Sinai (2022 - 2024)__<br>
-__New York, NY__ <br>
 <p class="full-width"><img src="/public/002.png" style="width:11rem;height:13rem" align="left"/></p><br><br><br><br><br><br><br><br><br>
 
- __Master of Science in Biomedical Sciences__<br>
+ __Master of Science in Biomedical Sciences (2022 - 2024)__<br>
  
  GPA - __3.6__ /4.0 <br>
  Courses - Machine Learning for Biomedical Data, Computer System Architectures and Applications in Scientific Computing, Unix/Linux Fundamentals, Biostatistics, Commercialization of Biomedical Innovation<br>
 
-__Indiana University (2016 - 2020)__<br>
-__Indianapolis, IN__ <br>
+
 <p class="full-width"><img src="/public/003.png" style="width:15rem;height:3rem" align="left"/></p><br><br>
 
- __Bachelor of Science in Informatics, Specialization in Pre-Medicine__ <br>
+ __Bachelor of Science in Informatics, Specialization in Pre-Medicine (2016 - 2020)__ <br>
 
  Courses - Introductory Bioinformatics, Clinical Information Systems, Applications of Data Mining, Database Development, Information Infrastructure, Research in Informatics, Human-Computer Interaction Principles<br>
  Study Abroad London - Understanding England’s National Health Service <br>
@@ -32,10 +29,10 @@ __Indianapolis, IN__ <br>
 
 __Regenstrief Institute__<br>
 __Indianapolis, IN__<br>
-<p class="full-width"><img src="/pic004.png" style="width:14rem;height:7rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/pic004.png" style="width:16rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Data Analyst I (Nov 2021 - Oct 2022)__ <br>
- 
+
 - Collaborated with physicians and researchers to understand project requirements, determine the variety and depth
 of clinical data available across diverse resources, and engaged in an iterative research process by refining data
 extraction and analyses based on their feedback.
