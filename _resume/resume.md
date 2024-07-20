@@ -11,7 +11,7 @@ title: Resume
 
 __Ichan School of Medicine at Mount Sinai (2022 - 2024)__<br>
 __New York, NY__ <br>
-<p class="full-width"><img src="/public/002.jpg" style="width:10rem;height:3rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/public/002.png" style="width:10rem;height:3rem" align="left"/></p><br><br><br><br><br>
 
  __Master of Science in Biomedical Sciences__<br>
  
