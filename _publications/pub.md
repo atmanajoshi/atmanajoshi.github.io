@@ -17,11 +17,11 @@ Globally, loneliness and social isolation have become an epidemic and a signific
 
 - __Medical Education Reports__<br>
 Kochhar K, Ho M, Joshi A. “Graduate Medical Education Exit Survey Report”, Aannual reports for 16 different residency/fellowship programs of the IU School of Medicine, Office of Graduate Medical Education (2018-2020) <br> 
-[2020](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/3e16e26d-48e8-4596-9595-9b6661ae8265/content){:target="_blank"}<br>
-[2019](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/769b5acd-39f9-4a1d-aaa9-8c687f2d6e21/content){:target="_blank"}<br>
-[2018](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/f258b1f0-1ab8-45c1-8a3d-439746d38401/content){:target="_blank"}<br>
-Kochhar K, Ho M, Joshi A, Fancher L. “Indiana Family Medicine Residencies Exit Survey Report” created annual reports for 13 different family medicine residencies across Indiana, Indiana Medical Education Board (2017-2019)
-[2019](){:target="_blank"}<br>
-[2018](){:target="_blank"}<br>
-[2017](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/9f3532fb-9cda-41ef-92fc-7f4327ec208d/content){:target="_blank"}<br>
+[[2020]](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/3e16e26d-48e8-4596-9595-9b6661ae8265/content){:target="_blank"} | 
+[[2019]](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/769b5acd-39f9-4a1d-aaa9-8c687f2d6e21/content){:target="_blank"} |
+[[2018]](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/f258b1f0-1ab8-45c1-8a3d-439746d38401/content){:target="_blank"}<br>
+Kochhar K, Ho M, Joshi A, Fancher L. “Indiana Family Medicine Residencies Exit Survey Report” created annual reports for 13 different family medicine residencies across Indiana, Indiana Medical Education Board (2017-2019)<br>
+[[2019]](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/67c61f05-1112-47b2-9f2e-7a6df8b0b539/content){:target="_blank"} |
+[[2018]](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/bcef63d6-8249-4f10-9902-c9091ef44e2e/content){:target="_blank"} |
+[[2017]](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/9f3532fb-9cda-41ef-92fc-7f4327ec208d/content){:target="_blank"}<br>
 
