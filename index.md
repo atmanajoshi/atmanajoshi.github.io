@@ -3,7 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/pic001.jpg" style="width:16rem;height:24rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width no-margin"><img src="/pic001.jpg" style="width:16rem;height:24rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 I have earned Master of Science in Biomedical Sciences from the Icahn School of Medicine at Mount Sinai, with a solid academic background in informatics from Indiana University – Purdue University Indianapolis. My diverse educational journey has equipped me with skills in machine learning, data science, clinical information systems, and human-computer interaction. 
 
