@@ -27,7 +27,7 @@ title: Resume
 ## Work Experience 
 ***
 
-<p class="full-width"><img src="/pic004.png" style="width:19rem;height:7rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/pic004.png" style="width:21rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Data Analyst I (Nov 2021 - Oct 2022)__ <br>
 
@@ -47,7 +47,7 @@ within medical records and patient notes.
 
 
 
-<p class="full-width"><img src="/public/pic005.png" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/pic005.png" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Clinical Informatics Specialist__ <br>
 - Documented patient encounters in SOAP notes, detailing chief complaints, history of present illness, past medical
