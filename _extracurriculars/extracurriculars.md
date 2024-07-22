@@ -36,5 +36,5 @@ Case-based clinical education in Pediatric Neurology, focusing on Epilepsy <br>
 - Clinical Observation with Dr. Clark Simons, Eskenazi Hospital, IN (Feb 2020) <br>
 Physician shadowing, Trauma and General Surgery Department, Eskenazi Hospital <br>
 - Clinical Observation with Dr. Theresa Rohr-Kirchgraber, Eskenazi Hospital, IN (Jan 2016) <br>
-Physician shadowing, Internal Medicine Department, Eskenazi Hospital <br>
+Physician shadowing, Internal Medicine Department, Eskenazi Hospital <br><br>
 
