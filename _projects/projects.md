@@ -14,10 +14,10 @@ permalink: /Projects
 ## __Enhancing CIFAR-10 Image Classification with Deep Learning__ 
 ***
 
-<p class="full-width"><img src="/public/cifar0.png" style="width:36rem;height:20rem" align="left"/></p><br>
+<p class="full-width"><img src="/public/cifar0.png" style="width:36rem;height:30rem" align="left"/></p><br>
 <p class="full-width"><img src="/public/cifar1.png" style="width:36rem;height:20rem" align="left"/></p><br>
 <p class="full-width"><img src="/public/cifar2.png" style="width:36rem;height:20rem" align="left"/></p><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [[Link]](https://github.com/atmanajoshi/enhance-cifar10-image-classification){:target="_blank"}<br>
 - Developed and optimized a multi-layer perceptron (MLP) to classify CIFAR-10 images using PyTorch. Preprocessed the data, split it into training, validation, and test sets, and implemented data loaders. The initial MLP had two hidden layers each with 64 neurons, ReLU activation, CrossEntropyLoss, SGD with learning rate=0.001 and momentum=0.9. Tracked and plotted train/validation loss and accuracy, saving the best model based on validation accuracy.
@@ -26,7 +26,7 @@ permalink: /Projects
 ## __Training a Chatbot using PyTorch__ 
 ***
 
-<p class="full-width"><img src="/public/chatbot.png" style="width:36rem;height:20rem" align="left"/>
+<p class="full-width"><img src="/public/chatbot.png" style="width:36rem;height:30rem" align="left"/>
 </p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [[Link]](https://github.com/atmanajoshi/train-chatbot-pytorch-project){:target="_blank"}<br>
