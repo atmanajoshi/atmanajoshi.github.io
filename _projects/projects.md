@@ -3,50 +3,42 @@ layout: page
 title: Projects
 permalink: /Projects
 ---
-## __Social-BERT [Mar '22 - Present]__ 
+## __Predicting Gene Expression Levels from DNA Sequences__ 
 ***
 
-<p class="full-width"><img src="/public/pic010.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width"><img src="/public/hackathonmodel.png" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Image Credits](https://www.researchgate.net/figure/BERT-architecture-1_fig1_340295341){:target="_blank"}<br>
-- Worked under the guidance of Prof. Andrew Schwartz and Adithya Ganesan of the Computer Science Department at Stony Brook University to fine-tune masked language modeling(MLM) with RoBERTa, BERTweet as seed to capture the language used in social media for token and sequence classification tasks. <br><br>
+[[Link]](https://github.com/atmanajoshi/gene-expression-prediction-project){:target="_blank"}<br>
+- This project was part of a hackathon to apply machine learning skills on real-world biological dataset by developing a machine learning model to predict gene expression levels across various cell types using DNA sequence information. Each input represented a DNA sequence centered on a gene’s transcription start site (TSS) extracted from the reference human genome (GRCh38). Each sequence had 49,152 nucleotides containing regulatory information that could determine the gene’s expression values in various cell types. Gene expression values across various cell types and sequencing methods were gathered from the ENCODE website. For the solution, using kipoiseq, torch, Adam optimizer, StepLR scheduler, and early stopping function we developed a CNN-based model ensemble. The model consisted of three branches, each with a different configuration of convolutional layers, pooling, dropout, and fully connected layers.<br><br>
 
-## __Real-time Vehicle Detection and Classification in Aerial Scenes [Oct '17 - Mar '18]__ 
+## __Enhancing CIFAR-10 Image Classification with Deep Learning__ 
 ***
 
-<p class="full-width"><img src="/public/pic006.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width"><img src="/public/cifar0.png" style="width:36rem;height:20rem" align="left"/></p><br>
+<p class="full-width"><img src="/public/cifar1.png" style="width:36rem;height:20rem" align="left"/></p><br>
+<p class="full-width"><img src="/public/cifar2.png" style="width:36rem;height:20rem" align="left"/></p><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-- Identified the shortcomings of the existing one-stage object detectors for aerial scenes. To address their shortcomings, proposed a modified Convolutional Neural Network by introducing ConvRes blocks at multiple scales to preserve salient features of small-sized objects such as cars, trucks, planes, boats, and heavy vehicles in satellite and drone imagery using Darknet framework and CUDA.
-- Generated a new data set by collecting aerial images from open sources and demonstrated the efficacy of the model by conducting experiments on three challenging data sets VEDAI, DLR-3K, and DOTA. 
-- Benchmarked performance against the existing state-of-the-art approaches in terms of mAP, computational and space complexity.
-- Above image is model's sample prediction in aerial view.
+[[Link]](https://github.com/atmanajoshi/enhance-cifar10-image-classification){:target="_blank"}<br>
+- Developed and optimized a multi-layer perceptron (MLP) to classify CIFAR-10 images using PyTorch. Preprocessed the data, split it into training, validation, and test sets, and implemented data loaders. The initial MLP had two hidden layers each with 64 neurons, ReLU activation, CrossEntropyLoss, SGD with learning rate=0.001 and momentum=0.9. Tracked and plotted train/validation loss and accuracy, saving the best model based on validation accuracy.
 <br><br>
 
-## __Retrieval Patterns of Physical Objects from Retail Sales [Oct '21 - Dec '21]__ 
+## __Training a Chatbot using PyTorch__ 
 ***
 
-<p class="full-width"><img src="/public/pic008.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width"><img src="/public/chatbot.png" style="width:36rem;height:20rem" align="left"/>
+</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
- - Implemented Prod2Vec model which uses the local product co-occurrence information established by the product sequences to create a distributed representation of products and recommends similar products. 
- - Performed comparative analysis of GloVe, FastText and Word2Vec models on retail product embeddings.
- - Above image is model's product embeddings visualised for one product and its neighbors in Tensorflow Embedding Projector. <br><br>
+[[Link]](https://github.com/atmanajoshi/train-chatbot-pytorch-project){:target="_blank"}<br>
+ - Trained a simple chatbot using recurrent seq-to-seq model and movie scripts from the Cornell Movie Dialogs Corpus based on the PyTorch Chatbot Tutorial. Followed the tutorial, implemented the code, and trained and evaluated the Chatbot model. To optimize model performance experimented with different combinations of hyperparameters such as clip, teacher_forcing_ratio, and attn_model, and reported the results and rationale.
+ <br><br>
 
-## __First-Person Activity Recognition in Videos [Oct '21 - Dec '21]__ 
+## __NSF I-Corps Business Canvas Model for Biomedical Device Startup__ 
 ***
 
-<p class="full-width"><img src="/public/pic009.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width"><img src="/public/nsfcanvas.png" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Image Credits](http://michaelryoo.com/papers/cvpr2013_ryoo.pdf){:target="_blank"}<br>
+[[Link]](https://github.com/atmanajoshi/nsf-icorps-business-canvas){:target="_blank"}<br>
+ - To address the increasing prevalence of colon diseases such as IBD, Crohn's, and Colon cancer, proposed a non-invasive, motorized capsule equipped with a camera and encapsulated robotic device to visualize the epithelial lining of the GI tract and perform small scale biopsy by leveraging AI/ML supported video analysis and CADe tool. Addressed all nine sections of NSF I-Corps Canvas Model for the startups by completing ideation, value proposition development, market and competitive analysis, sector intelligence analysis, identified funding and customer engagement strategies, identified initial supply chain and regulatory issues, conducted customer discovery interviews, completed a pro-forma budget and addressed future directions and timeline <br><br>
 
- - Finetuned ImageNet pre-trained Resnet50 CNN model to serve as a feature extractor and using it performed classification task on JPL interaction video frames to identify activities such as hugging, waving, punching etc. in PyTorch and OpenCV. 
- - Temporal pooling was used to extract spatial features in a given time window. <br><br>
 
-## __Airbnb Customer Review Sentiment Analysis [Oct '21 - Dec '21]__ 
-***
-
-<p class="full-width"><img src="/public/pic007.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-[Image Credits](http://www.gabormelli.com/RKB/Bidirectional_LSTM_%28BiLSTM%29_Model){:target="_blank"}<br>
-
- - Built a fair price prediction model for Airbnb listings using range of methods like support vector regression, random forest regression and gradient boosting models. 
- - Performed multi-class customer review sentiment analysis using pretrained word embeddings and bidirectional LSTM model using Tensorflow with training dataset consisting of 10+ million customer reviews. <br><br>
