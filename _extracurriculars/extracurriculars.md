@@ -7,40 +7,34 @@ permalink: /Extracurriculars
 ## __Volunteering__ 
 ***
 
-<p class="full-width"><img src="/public/hackathonmodel.png" style="width:26rem;height:15rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br>
+- Student Leader, Story Time and Teen Talk (ST3) @ Mount Sinai Morningside Hospital (2022-2024)<br>
+- Volunteered as student leader to coordinate with the resident, hospital staff, and fellow student volunteers to facilitate enriching activities and supportive talk for kids at Child and Adolescent Psychiatry Inpatient Unit. <br><br>
 
-[[Link]](https://github.com/atmanajoshi/gene-expression-prediction-project){:target="_blank"}<br>
-- This project was part of a hackathon to apply machine learning skills on real-world biological dataset by developing a machine learning model to predict gene expression levels across various cell types using DNA sequence information. Each input represented a DNA sequence centered on a gene’s transcription start site (TSS) extracted from the reference human genome (GRCh38). Each sequence had 49,152 nucleotides containing regulatory information that could determine the gene’s expression values in various cell types. Gene expression values across various cell types and sequencing methods were gathered from the ENCODE website. For the solution, using kipoiseq, torch, Adam optimizer, StepLR scheduler, and early stopping function we developed a CNN-based model ensemble. The model consisted of three branches, each with a different configuration of convolutional layers, pooling, dropout, and fully connected layers.<br><br>
+- Student Volunteer @ Nearwest Outreach Clinic, Indianapolis (2020-2021)<br>
+- Assisted in local annual fundraiser by maintaining new and past donor list and help
+process donations that are distributed to establish schools in remote tribal and rural
+areas of India <br><br>
 
-## __Enhancing CIFAR-10 Image Classification with Deep Learning__ 
+- Student Volunteer @ Ekal Vidyalaya USA (2017-2019)<br>
+- Assisted in local annual fundraiser by maintaining new and past donor list and help
+process donations that are distributed to establish schools in remote tribal and rural
+areas of India <br><br>
+
+## __Indian Classical Dance__ 
 ***
+- Indian Classical Dancer, Senior Student at Samyoga School of Dance, (2016 – Present) <br>
+- Student of Indian classical dance Bharatanatyam, studying dance techniques, choreography, and dramaturgy scriptures of ancient Indian classical dance form. Performances: Whitestown Festival of Lights, Carmel International Dance Festival Multiple performances at Hindu Temple of Central Indiana, and annual recitals by Samyoga School of Dance.
+- Dance and Anatomy - Basic and Advanced Modules Virtual Global Workshop by Dr. Earnest Vijay, India Feb 2022, Aug 2021
+- Attended virtual lectures by sports physiotherapist Dr. Earnest Vijay to learn and explore concepts of dance medicine, principles of cardiovascular, pulmonary, and metabolic fitness, biomechanics of the body, stamina and agility, prevention and management of dancer injuries, and analyzing body movements for better training.
 
-<p class="full-width"><img src="/public/cifar0.png" style="width:26rem;height:20rem" align="left"/></p><br>
-<p class="full-width"><img src="/public/cifar1.png" style="width:30rem;height:15rem" align="left"/></p><br>
-<p class="full-width"><img src="/public/cifar2.png" style="width:30rem;height:15rem" align="left"/></p><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-
-[[Link]](https://github.com/atmanajoshi/enhance-cifar10-image-classification){:target="_blank"}<br>
-- Developed and optimized a multi-layer perceptron (MLP) to classify CIFAR-10 images using PyTorch. Preprocessed the data, split it into training, validation, and test sets, and implemented data loaders. The initial MLP had two hidden layers each with 64 neurons, ReLU activation, CrossEntropyLoss, SGD with learning rate=0.001 and momentum=0.9. Tracked and plotted train/validation loss and accuracy, saving the best model based on validation accuracy.
-<br><br>
-
-## __Training a Chatbot using PyTorch__ 
+## __Clinical Shadowing__ 
 ***
-
-<p class="full-width"><img src="/public/chatbot.png" style="width:26rem;height:20rem" align="left"/>
-</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-[[Link]](https://github.com/atmanajoshi/train-chatbot-pytorch-project){:target="_blank"}<br>
- - Trained a simple chatbot using recurrent seq-to-seq model and movie scripts from the Cornell Movie Dialogs Corpus based on the PyTorch Chatbot Tutorial. Followed the tutorial, implemented the code, and trained and evaluated the Chatbot model. To optimize model performance experimented with different combinations of hyperparameters such as clip, teacher_forcing_ratio, and attn_model, and reported the results and rationale.
- <br><br>
-
-## __NSF I-Corps Business Canvas Model for Biomedical Device Startup__ 
-***
-
-<p class="full-width"><img src="/public/nsfcanvas.png" style="width:26rem;height:15rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br>
-
-[[Link]](https://github.com/atmanajoshi/nsf-icorps-business-canvas){:target="_blank"}<br>
- - To address the increasing prevalence of colon diseases such as IBD, Crohn's, and Colon cancer, proposed a non-invasive, motorized capsule equipped with a camera and encapsulated robotic device to visualize the epithelial lining of the GI tract and perform small scale biopsy by leveraging AI/ML supported video analysis and CADe tool. Addressed all nine sections of NSF I-Corps Canvas Model for the startups by completing ideation, value proposition development, market and competitive analysis, sector intelligence analysis, identified funding and customer engagement strategies, identified initial supply chain and regulatory issues, conducted customer discovery interviews, completed a pro-forma budget and addressed future directions and timeline <br><br>
-
+- Virtual Clinical Observation with Dr. Sarat Manjuluri, Baylor College of Medicine, TX (March 2021) <br>
+Case-based clinical education in Child Psychiatry  <br>
+- Virtual Clinical Observation with Dr. Alexis Dallara-Marsh, Valley Health System, NJ (March 2021) <br>
+Case-based clinical education in Pediatric Neurology, focusing on Epilepsy <br>
+- Clinical Observation with Dr. Clark Simons, Eskenazi Hospital, IN (Feb 2020) <br>
+Physician shadowing, Trauma and General Surgery Department, Eskenazi Hospital <br>
+- Clinical Observation with Dr. Theresa Rohr-Kirchgraber, Eskenazi Hospital, IN (Jan 2016) <br>
+Physician shadowing, Internal Medicine Department, Eskenazi Hospital <br>
 
