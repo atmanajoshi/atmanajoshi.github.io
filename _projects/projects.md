@@ -18,6 +18,7 @@ permalink: /Projects
 <p class="full-width"><img src="/public/cifar1.png" style="width:36rem;height:20rem" align="left"/></p><br>
 <p class="full-width"><img src="/public/cifar2.png" style="width:36rem;height:20rem" align="left"/></p><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [[Link]](https://github.com/atmanajoshi/enhance-cifar10-image-classification){:target="_blank"}<br>
 - Developed and optimized a multi-layer perceptron (MLP) to classify CIFAR-10 images using PyTorch. Preprocessed the data, split it into training, validation, and test sets, and implemented data loaders. The initial MLP had two hidden layers each with 64 neurons, ReLU activation, CrossEntropyLoss, SGD with learning rate=0.001 and momentum=0.9. Tracked and plotted train/validation loss and accuracy, saving the best model based on validation accuracy.
@@ -27,7 +28,7 @@ permalink: /Projects
 ***
 
 <p class="full-width"><img src="/public/chatbot.png" style="width:36rem;height:30rem" align="left"/>
-</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [[Link]](https://github.com/atmanajoshi/train-chatbot-pytorch-project){:target="_blank"}<br>
  - Trained a simple chatbot using recurrent seq-to-seq model and movie scripts from the Cornell Movie Dialogs Corpus based on the PyTorch Chatbot Tutorial. Followed the tutorial, implemented the code, and trained and evaluated the Chatbot model. To optimize model performance experimented with different combinations of hyperparameters such as clip, teacher_forcing_ratio, and attn_model, and reported the results and rationale.
