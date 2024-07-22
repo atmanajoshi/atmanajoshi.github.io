@@ -52,6 +52,8 @@ collections:
     output: true
   home:
     output: true
+  extracurriculars:
+    output: true
 
 defaults:
   -
