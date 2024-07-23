@@ -8,15 +8,15 @@ permalink: /Extracurriculars
 ***
 
 - Student Leader, Story Time and Teen Talk (ST3) @ Mount Sinai Morningside Hospital (2022-2024)<br>
-- Volunteered as student leader to coordinate with the resident, hospital staff, and fellow student volunteers to facilitate enriching activities and supportive talk for kids at Child and Adolescent Psychiatry Inpatient Unit. <br><br>
+Volunteered as student leader to coordinate with the resident, hospital staff, and fellow student volunteers to facilitate enriching activities and supportive talk for kids at Child and Adolescent Psychiatry Inpatient Unit. <br><br>
 
 - Student Volunteer @ Nearwest Outreach Clinic, Indianapolis (2020-2021)<br>
-- Assisted in local annual fundraiser by maintaining new and past donor list and help
+Assisted in local annual fundraiser by maintaining new and past donor list and help
 process donations that are distributed to establish schools in remote tribal and rural
 areas of India <br><br>
 
 - Student Volunteer @ Ekal Vidyalaya USA (2017-2019)<br>
-- Assisted in local annual fundraiser by maintaining new and past donor list and help
+Assisted in local annual fundraiser by maintaining new and past donor list and help
 process donations that are distributed to establish schools in remote tribal and rural
 areas of India <br><br>
 
@@ -24,7 +24,7 @@ areas of India <br><br>
 ***
 - Indian Classical Dancer, Senior Student at Samyoga School of Dance, (2016 – Present) <br>
 Student of Indian classical dance Bharatanatyam, studying dance techniques, choreography, and dramaturgy scriptures of ancient Indian classical dance form. Performances: Whitestown Festival of Lights, Carmel International Dance Festival Multiple performances at Hindu Temple of Central Indiana, and annual recitals by Samyoga School of Dance. <br><br>
-- Dance and Anatomy - Basic and Advanced Modules Global Workshop by Dr. Earnest Vijay (Feb 2022, Aug 2021) <br>
+- Dance and Anatomy - Basic and Advanced Modules, Global Workshop by Dr. Earnest Vijay (Feb 2022, Aug 2021) <br>
 Attended virtual lectures by sports physiotherapist Dr. Earnest Vijay to learn and explore concepts of dance medicine, principles of cardiovascular, pulmonary, and metabolic fitness, biomechanics of the body, stamina and agility, prevention and management of dancer injuries, and analyzing body movements for better training.
 
 ## __Clinical Shadowing__ 
